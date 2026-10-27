@@ -8,9 +8,8 @@
 
 国内加速（raw 打不开时用）：
 
-**https://ghproxy.net/https://raw.githubusercontent.com/xiqing21/chsi-id-script/main/chsi-id-via.user.js**
-
 **https://cdn.jsdelivr.net/gh/xiqing21/chsi-id-script@main/chsi-id-via.user.js**
+
 
 ## 安装（Via 浏览器）
 
